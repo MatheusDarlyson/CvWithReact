@@ -1,6 +1,7 @@
 {
   "name": "cv_react_expo",
   "version": "1.0.0",
+  "author": "Matheus Darlyson",
   "main": "expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
